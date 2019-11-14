@@ -33,3 +33,14 @@ Add to `eslintConfig.extends` in `package.json`.
   }
 }
 ```
+
+### Typescript + React Native
+
+```json
+{
+  "name": "amazing-native-app",
+  "eslintConfig": {
+    "extends": "kodefox/react-native"
+  }
+}
+```

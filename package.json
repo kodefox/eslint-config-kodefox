@@ -16,6 +16,9 @@
     "eslint": ">=5.0.0",
     "prettier": ">=1.0.0"
   },
+  "optionalDependencies": {
+    "eslint-plugin-react-native": "^3.8.1"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^2.7.0",
     "@typescript-eslint/parser": "^2.7.0",
