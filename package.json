@@ -2,6 +2,7 @@
   "name": "eslint-config-kodefox",
   "version": "0.0.1",
   "description": "Default KodeFox style for TypeScript project.",
+  "repository": "github:kodefox/eslint-config-kodefox",
   "main": "index.js",
   "files": [
     "index.js",
