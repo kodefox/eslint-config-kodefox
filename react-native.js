@@ -1,5 +1,5 @@
 module.exports = {
-  extends: 'react',
+  extends: 'kodefox/react',
   env: {
     'react-native/react-native': true,
   },
