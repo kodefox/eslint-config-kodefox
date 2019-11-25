@@ -19,6 +19,7 @@ module.exports = {
     'react/no-unknown-property': 'warn',
     'react/react-in-jsx-scope': 'error',
     'react/require-render-return': 'warn',
+    'react/self-closing-comp': 'warn',
 
     // React (eslint-plugin-react-hooks)
     'react-hooks/rules-of-hooks': 'error',
