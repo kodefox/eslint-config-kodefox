@@ -1,6 +1,6 @@
-# eslint-config-kodefox
+# ESLint Config for KodeFox
 
-Various configuration commonly used by KodeFox for TypeScript projects.
+ESLint configuration used for TypeScript projects.
 
 ## Install
 
@@ -10,20 +10,20 @@ $ yarn add --dev eslint-config-kodefox
 
 ## Usage
 
-Add to `eslintConfig.extends` in `package.json`.
+Modify `eslintConfig` in `package.json` as follows.
 
-### Typescript
+### TypeScript
 
 ```json
 {
-  "name": "cool-express-server",
+  "name": "cool-node-server",
   "eslintConfig": {
     "extends": "kodefox"
   }
 }
 ```
 
-### Typescript + React
+### TypeScript + React
 
 ```json
 {
@@ -34,7 +34,7 @@ Add to `eslintConfig.extends` in `package.json`.
 }
 ```
 
-### Typescript + React Native
+### TypeScript + React Native
 
 ```json
 {
